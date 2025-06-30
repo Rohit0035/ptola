@@ -64,26 +64,6 @@
                      </ul>
                  </div>
              </div>
-             <!-- <div class="col-12 col-lg-3">
-                 <div class="footer-widget-4">
-                     <h5 class="mb-3">Newletter</h5>
-                     <p class="news-letter-caption">Subscribe to our newsletter and enjoy 10% off your first order</p>
-                     <form method="post">
-                         <div class="input-group input-group-lg mt-3">
-                             <input type="email" class="form-control border-dark" placeholder="Enter your email"
-                                 required>
-                             <button class="btn btn-dark" type="submit"><i class="bi bi-arrow-up-right"></i></button>
-                         </div>
-                     </form>
-                     <p class="news-letter-caption mt-4 mb-2">Download Mobile Application</p>
-                     <div class="d-flex align-items-center gap-3">
-                         <a href="javascript:;"><img src="assets/images/gallery/google-play-store.png" width="140"
-                                 class="rounded-3" alt=""></a>
-                         <a href="javascript:;"><img src="assets/images/gallery/apple-play-store.png" width="140"
-                                 class="rounded-3" alt=""></a>
-                     </div>
-                 </div>
-             </div> -->
          </div>
          <!--end row-->
      </div>

@@ -34,61 +34,6 @@
     <!--start header-->
     <header class="top-header py-2">
         <div class="top-strip d-flex align-items-center gap-4 container px-3">
-            <!-- <div class="strip-menu-left d-none d-lg-flex">
-                <ul class="nav align-items-center gap-2">
-                    <li class="nav-item">
-                        <a class="nav-link py-1" href="javascript:;">Shipping</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link py-1" href="javascript:;">FAQ</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link py-1" href="javascript:;">Returns Policy</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link py-1" href="javascript:;">Track Order</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="strip-social-links ms-lg-auto flex-lg-grow-0 flex-grow-1">
-                <ul class="nav align-items-center gap-2">
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript:;"><i class="bi bi-facebook"></i></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript:;"><i class="bi bi-twitter-x"></i></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript:;"><i class="bi bi-linkedin"></i></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript:;"><i class="bi bi-pinterest"></i></a>
-                    </li>
-                </ul>
-            </div>
-            <div class="dropdown language">
-                <a class="btn btn-sm btn-language btn-outline-light border-0 d-flex align-items-center gap-2 px-2 dropdown-toggle dropdown-toggle-nocaret"
-                    href="javascript:;" data-bs-toggle="dropdown">
-                    <span>English</span><span><i class="bi bi-chevron-down"></i></span>
-                </a>
-                <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="javascript:;">French</a></li>
-                    <li><a class="dropdown-item" href="javascript:;">Spanish</a></li>
-                    <li><a class="dropdown-item" href="javascript:;">hindi</a></li>
-                </ul>
-            </div>
-            <div class="dropdown language">
-                <a class="btn btn-sm btn-language btn-outline-light border-0 d-flex align-items-center gap-2 px-2 dropdown-toggle dropdown-toggle-nocaret"
-                    href="javascript:;" data-bs-toggle="dropdown">
-                    <span>USD</span><span><i class="bi bi-chevron-down"></i></span>
-                </a>
-                <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="javascript:;">EUR</a></li>
-                    <li><a class="dropdown-item" href="javascript:;">INR</a></li>
-                    <li><a class="dropdown-item" href="javascript:;">KGM</a></li>
-                    <li><a class="dropdown-item" href="javascript:;">DSR</a></li>
-                </ul>
-            </div> -->
             <marquee behavior="scroll" direction="left" scrollamount="5" class=" text-white  fw-bold">
                 <span class="me-5"><i class="bi bi-bag-check"></i> COD Available</span>
                 <span class="me-5"><i class="bi bi-award"></i> Legacy Since 1950</span>
@@ -241,7 +186,7 @@
                                 <span class="parent-menu-name">New Arrival</span>
                                 <span class="parent-menu-icon ms-2"><i class="bi bi-chevron-down"></i></span>
                             </a>
-                            <!-- <div class="dropdown-menu mega-menu p-lg-3 start-0 end-0 rounded-0">
+                            <div class="dropdown-menu mega-menu p-lg-3 start-0 end-0 rounded-0">
                                 <div class="container px-3">
                                     <div class="row  row-cols-lg-5">
                                         <div class="col-6 col-sm-4 col-md-3 col-lg-2">
@@ -264,7 +209,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div> -->
+                            </div>
                         </li>
 
                         <li class="nav-item dropdown position-static">
@@ -273,113 +218,6 @@
                                 <span class="parent-menu-name">Best Seller</span>
                                 <span class="parent-menu-icon ms-2"><i class="bi bi-chevron-down"></i></span>
                             </a>
-                            <!-- <div class="dropdown-menu mega-menu p-lg-3 start-0 end-0 rounded-0">
-                                <div class="container px-3">
-                                    <div class="row row-cols-1 row-cols-lg-5 g-3">
-                                        <div class="col">
-                                            <div class="list-group list-group-flush">
-                                                <h5 class="list-group-item mega-menu-title px-0 mb-0">Apparel</h5>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Casual Wear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Formal Wear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Streetwear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Athleisure</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Loungewear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Outerwear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Ethnic Wear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Pajamas</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Oversized</a>
-                                            </div>
-                                        </div>
-                                        <div class="col">
-                                            <div class="list-group list-group-flush">
-                                                <h5 class="list-group-item mega-menu-title mb-0 px-0">Footwear</h5>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Sneakers</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Boots</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Formal Shoes</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Sandals</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Sports Shoes</a>
-                                                <a href="javascript:;" class="list-group-item mega-menu-link px-0">Dress
-                                                    shoes</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Luxury Sneakers</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Chelsea Boots</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Training Shoes</a>
-                                            </div>
-                                        </div>
-                                        <div class="col">
-                                            <div class="list-group list-group-flush">
-                                                <h5 class="list-group-item mega-menu-title mb-0 px-0">Accessories</h5>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Backpacks</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Watches</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Sunglasses</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Jewelry</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Leather Belts</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Smartwatches</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Casual Watches</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Baseball Caps</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Designer Belts</a>
-                                            </div>
-                                        </div>
-                                        <div class="col">
-                                            <div class="list-group">
-                                                <div class="card border">
-                                                    <div class="card-body p-2">
-                                                        <div class="position-relative">
-                                                            <img src="assets/images/gallery/mega-menu-img-1.jpg"
-                                                                class="img-fluid rounded" alt="">
-                                                            <div class="position-absolute bottom-0 end-0 start-0 m-3">
-                                                                <button type="button"
-                                                                    class="btn border bg-white px-4 rounded-3 w-100">Women</button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col">
-                                            <div class="list-group">
-                                                <div class="card border">
-                                                    <div class="card-body p-2">
-                                                        <div class="position-relative">
-                                                            <img src="assets/images/gallery/mega-menu-img-2.jpg"
-                                                                class="img-fluid rounded" alt="">
-                                                            <div class="position-absolute bottom-0 end-0 start-0 m-3">
-                                                                <button type="button"
-                                                                    class="btn border bg-white px-4 rounded-3 w-100">Men</button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
                         </li>
                         <li class="nav-item dropdown position-static">
                             <a class="nav-link dropdown-toggle dropdown-toggle-nocaret" href="javascript:;"
@@ -387,113 +225,6 @@
                                 <span class="parent-menu-name">Shop</span>
                                 <span class="parent-menu-icon ms-2"><i class="bi bi-chevron-down"></i></span>
                             </a>
-                            <!-- <div class="dropdown-menu mega-menu p-lg-3 start-0 end-0 rounded-0">
-                                <div class="container px-3">
-                                    <div class="row row-cols-1 row-cols-lg-5 g-3">
-                                        <div class="col">
-                                            <div class="list-group list-group-flush">
-                                                <h5 class="list-group-item mega-menu-title px-0 mb-0">Apparel</h5>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Casual Wear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Formal Wear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Streetwear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Athleisure</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Loungewear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Outerwear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Ethnic Wear</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Pajamas</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Oversized</a>
-                                            </div>
-                                        </div>
-                                        <div class="col">
-                                            <div class="list-group list-group-flush">
-                                                <h5 class="list-group-item mega-menu-title mb-0 px-0">Footwear</h5>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Sneakers</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Boots</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Formal Shoes</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Sandals</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Sports Shoes</a>
-                                                <a href="javascript:;" class="list-group-item mega-menu-link px-0">Dress
-                                                    shoes</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Luxury Sneakers</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Chelsea Boots</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Training Shoes</a>
-                                            </div>
-                                        </div>
-                                        <div class="col">
-                                            <div class="list-group list-group-flush">
-                                                <h5 class="list-group-item mega-menu-title mb-0 px-0">Accessories</h5>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Backpacks</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Watches</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Sunglasses</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Jewelry</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Leather Belts</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Smartwatches</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Casual Watches</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Baseball Caps</a>
-                                                <a href="javascript:;"
-                                                    class="list-group-item mega-menu-link px-0">Designer Belts</a>
-                                            </div>
-                                        </div>
-                                        <div class="col">
-                                            <div class="list-group">
-                                                <div class="card border">
-                                                    <div class="card-body p-2">
-                                                        <div class="position-relative">
-                                                            <img src="assets/images/gallery/mega-menu-img-1.jpg"
-                                                                class="img-fluid rounded" alt="">
-                                                            <div class="position-absolute bottom-0 end-0 start-0 m-3">
-                                                                <button type="button"
-                                                                    class="btn border bg-white px-4 rounded-3 w-100">Women</button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col">
-                                            <div class="list-group">
-                                                <div class="card border">
-                                                    <div class="card-body p-2">
-                                                        <div class="position-relative">
-                                                            <img src="assets/images/gallery/mega-menu-img-2.jpg"
-                                                                class="img-fluid rounded" alt="">
-                                                            <div class="position-absolute bottom-0 end-0 start-0 m-3">
-                                                                <button type="button"
-                                                                    class="btn border bg-white px-4 rounded-3 w-100">Men</button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
                         </li>
                     </ul>
                 </div>
